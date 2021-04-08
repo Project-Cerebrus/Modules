@@ -1,0 +1,27 @@
+{
+  "name": "anthony",
+  "version": "1.0.0",
+  "description": "A complete code for a Discord bot to do contests. Easy to modify and free ! Also available in french 🎉",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^6.0.1",
+    "discord-giveaways": "^4.0.2",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme"
+}
